@@ -13,5 +13,5 @@ A REST API for predicting loan default risk using a machine learning model train
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/loan-default-prediction.git
+   git clone https://github.com/jgavinb/loan-default-prediction.git
    cd loan-default-prediction
